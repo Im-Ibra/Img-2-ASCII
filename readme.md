@@ -10,9 +10,12 @@ Simple and easy to use image 2 ascii converter, just run the code, choose the fi
 ## How to Run 🏃‍♂️
 1. Make sure you have Python installed.
 2. Install the required packages:
+   
 ```bash
 pip install pillow
 ```
+```
+
                                                                    .:::.
                                                 .---::::           +###*-.
                                                 =%%%##**=:         +#####+==:

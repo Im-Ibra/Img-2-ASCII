@@ -12,7 +12,7 @@ Simple and easy to use image 2 ascii converter, just run the code, choose the fi
 2. Install the required packages:
 ```bash
 pip install pillow
-
+```
                                                                    .:::.
                                                 .---::::           +###*-.
                                                 =%%%##**=:         +#####+==:

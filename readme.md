@@ -3,7 +3,7 @@
 Simple and easy to use image 2 ascii converter, just run the code, choose the file and enjoy the result, fast and efficient.
 
 ## Features ✨
-- Choose any image from your computer with a simple file picker.
+- Choose any image from your computer (PNG, JPEG, JPG, WEBP) with a simple file picker.
 - Pick a color mode: **dark** or **light**, and the ASCII characters switch accordingly.
 - The final result will show up inside a folder named **output** located inside the project directory
 

@@ -52,7 +52,7 @@ def Convert2Ascii():
           asciiStr += pixel_to_char(brightness)
 #Checks if the line is full (100 characters) if so then goes to then next line
           if (i + 1) % NEW_WIDTH == 0:
-              ascii_str += "\n"
+              asciiStr += "\n"
 #Opens the end result as "f" and writes in the string containing the ASCII text
   with open(ascii_path, "w") as f:
       f.write(asciiStr)
